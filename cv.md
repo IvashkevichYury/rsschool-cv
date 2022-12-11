@@ -9,3 +9,10 @@
 
 ## About me
 I've been working in the telecommunications industry for about 15 years. I've been learning Java for over a year and now I've decided to develop my skills in front-end development.
+
+## Skills
+* Java, Spring, Hibernate
+* HTML, CSS
+* MySQL, PostgreSQL
+* Maven
+* Git
