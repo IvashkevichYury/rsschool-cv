@@ -38,3 +38,6 @@ public class Counter {
     * EPAM - Java Core
     * Overone - Java, Spring
     * Udemy - Spring, SQL
+
+## English
+English level - A2 (I study English every day for at least half an hour)
