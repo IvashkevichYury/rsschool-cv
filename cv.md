@@ -31,3 +31,10 @@ public class Counter {
   }
 }
 ```
+
+## Education
+* Belarusian State University Of Informatics And Radioelectronics, Faculty of telecommunications
+* Courses:
+    * EPAM - Java Core
+    * Overone - Java, Spring
+    * Udemy - Spring, SQL
