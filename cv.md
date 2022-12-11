@@ -16,3 +16,18 @@ I've been working in the telecommunications industry for about 15 years. I've be
 * MySQL, PostgreSQL
 * Maven
 * Git
+
+## Code example
+```
+public class Counter {
+  public int countSheeps(Boolean[] arrayOfSheeps) {
+    int count = 0;
+    for (Boolean b : arrayOfSheeps) {
+      if (b == true) {
+        count++;
+      }
+    }
+    return count;
+  }
+}
+```
